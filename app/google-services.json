@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "962341556162",
+    "firebase_url": "https://qurepet.firebaseio.com",
+    "project_id": "qurepet",
+    "storage_bucket": "qurepet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962341556162:android:dd790c57de6fd6989ad05b",
+        "android_client_info": {
+          "package_name": "kr.co.qure.qurepet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962341556162-mnmqco81e3buun8ckvfq4prsvc4shcfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.qure.qurepet",
+            "certificate_hash": "f94f81a47f0004af71e447d4e424c23b6c29eba1"
+          }
+        },
+        {
+          "client_id": "962341556162-s72ovt1q8lokhbm60q8dtbagej2ca6ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiK08QZkHz_neoj4jqaUKfpd92oHBp5ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962341556162-s72ovt1q8lokhbm60q8dtbagej2ca6ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
